@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing my Masters in Data Analytics from IIITM-K
 - 💞️ I’m looking to collaborate on Data Analystics / Machine learning projects
-- 📫 How to reach me : E-mail- gayathrivijayan99@gmail.com ; LinkedIn id : https://www.linkedin.com/in/gayathri-v-482215204/
+- 📫 How to reach me : [E-mail](gayathrivijayan99@gmail.com) ; [LinkedIn](https://www.linkedin.com/in/gayathri-v-482215204/)
 - ⚡ Fun fact: Reality is spam
 -  🌱 Learning about Spiking neural networks and Quantum Computing
 
