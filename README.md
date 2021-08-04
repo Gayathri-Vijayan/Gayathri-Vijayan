@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Gayathri Vijayan
+ <h1> Hey, I’m Gayathri Vijayan <img width="50px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" /> </h1>
 
 👀 I’m interested in Data Science and Machine Learning
 
